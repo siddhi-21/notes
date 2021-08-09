@@ -1,0 +1,22 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-family: serif;
+}
+.title{
+    font-size: 1.7rem;
+    font-family: emoji;
+    font-weight: bold;
+    color: black;
+}
+.buttons{
+    margin-top: 1rem;
+}
+.notecard{
+    margin-top: 1rem;
+}
+body{
+    background-color: #eeb0a9;
+}
